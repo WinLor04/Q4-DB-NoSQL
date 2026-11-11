@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6af35f4157851f30cac5b607"
+  },
+  "nombre": "Iron Man",
+  "identidad": "Tony Stark",
+  "equipo": "Avengers",
+  "armas": [
+    "Armaduras",
+    "Cohetes",
+    "Inteligencia",
+    "Satélites"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af36fdf104e5fe2d6012203"
+  },
+  "nombre": "Thor",
+  "identidad": "Thor",
+  "equipo": "Avengers",
+  "armas": [
+    "Mjolnir"
+  ]
+}]
